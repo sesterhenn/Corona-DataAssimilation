@@ -16,6 +16,8 @@ Maintained by Joern Sesterhenn and Gabriele Camerlengo.
 Confirmed Cases and Deaths from the Johns-Hopkins Database. Lines are
 assimilated results.  
 ![Linear Representation of the data](figs/US-New_York-New_York/da.png) 
+
+
 The growth rate calculeted from $\frac{\partial f_2}{\partial I}$
 ![Growth rate of infections](figs/US-New_York-New_York/da_A22.png)
 
