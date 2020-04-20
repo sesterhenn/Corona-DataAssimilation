@@ -13,7 +13,7 @@ subfolders.
 Maintained by Joern Sesterhenn and Gabriele Camerlengo.
 
 ## New York
-![Linear Representation of the data](figs/US-New_York-New_York/da.pdf)
+![Linear Representation of the data](https://github.com/sesterhenn/Corona-DataAssimilation/blob/master/figs/US-New_York-New_York/da.pdf)
 
 
 
