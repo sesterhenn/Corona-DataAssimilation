@@ -6,7 +6,7 @@ Corona-Data](https://www.zenodo.org/record/3738945) based on the
 database](https://github.com/CSSEGISandData/COVID-19.git) and data
 from the [Robert-Koch
 Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html).
-An overview of the assimilation is found on this page. The numerical
+An updated overview of the assimilation is found on this page. The numerical
 values, as well as the individual plots can be found in the
 subfolders.
 
@@ -18,7 +18,7 @@ assimilated results.
 ![Linear Representation of the data](figs/US-New_York-New_York/da.png) 
 
 
-The growth rate calculeted from $\frac{\partial f_2}{\partial I}$
+The growth rate calculated from $\frac{\partial f_2}{\partial I}$
 ![Growth rate of infections](figs/US-New_York-New_York/da_A22.png)
 
 
