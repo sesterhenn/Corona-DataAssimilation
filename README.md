@@ -14,6 +14,7 @@ Maintained by Joern Sesterhenn and Gabriele Camerlengo.
 
 ## New York
 ![Linear Representation of the data](figs/US-New_York-New_York/da.png)
+![Growth rate of infections](figs/US-New_York-New_York/da_A22.png)
 
 
 
