@@ -22,12 +22,13 @@ assimilated results.
 ![Model parameter \beta](figs/US-New_York-New_York/da_beta.png)
 ![Model parameter \gamma and \deta](figs/US-New_York-New_York/da_delta_gamma.png)
 
-![\sigma](figs/US-New_York-New_York/da_delta_gamma.png)
+![\sigma](figs/US-New_York-New_York/da_sigma.png)
 
 
 
 The growth rate calculated from 
 ![\frac{\partial f_2}{\partial I}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7B%5Cpartial%20f_2%7D%7B%5Cpartial%20I%7D)
+
 ![Growth rate of infections](figs/US-New_York-New_York/da_A22.png)
 
 
