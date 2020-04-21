@@ -22,7 +22,7 @@ assimilated results.
 ![Model parameter \beta](figs/US-New_York-New_York/da_beta.png)
 ![Model parameter \gamma and \deta](figs/US-New_York-New_York/da_delta_gamma.png)
 
-![\sigma](figs/US-New_York-New_York/da_sigma.png)
+![contact number](figs/US-New_York-New_York/da_contact_number.png)
 
 
 
