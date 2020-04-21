@@ -18,6 +18,8 @@ assimilated results.
 ![Linear Representation of the data](figs/US-New_York-New_York/da.png)
 ![Logarithmical Representation of the data](figs/US-New_York-New_York/da_log.png)
 
+![Assimilated Model parameters](figs/US-New_York-New_York/da_beta.png)
+
 
 
 The growth rate calculated from $\frac{\partial f_2}{\partial I}$
