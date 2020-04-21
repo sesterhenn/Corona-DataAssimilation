@@ -25,7 +25,6 @@ assimilated results.
 ![\sigma](figs/US-New_York-New_York/da_delta_gamma.png)
 
 
-
 The growth rate calculated from ![\frac{\partial f_2}{\partial I}](https://render.githubusercontent.com/render/math?math=%5Cbeta)
 ![Growth rate of infections](figs/US-New_York-New_York/da_A22.png)
 
