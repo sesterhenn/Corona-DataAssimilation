@@ -29,5 +29,9 @@ The growth rate calculated from
 ![Linear Representation of the data](figs/Germany/da.png)
 [full report](reports/Germany.md)
 
+## Italy
+![Linear Representation of the data](figs/Italy/da.png)
+[full report](reports/Italy.md)
+
 
 
