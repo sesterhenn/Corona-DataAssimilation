@@ -17,14 +17,18 @@ Confirmed Cases and Deaths from the JHU or RKI. Lines are assimilated results.
 The growth rate calculated from 
 ![\frac{\partial f_2}{\partial I}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7B%5Cpartial%20f_2%7D%7B%5Cpartial%20I%7D)
 
-## Example Plot
+## Bavaria
 ![Linear Representation of the data](figs/Germany-Bayern/da.png)
 
+[full report](reports/Bavaria.md)
 
-### [Bavaria](reports/Bavaria.md)
-### [New York](reports/New_York.md)
+## New York
+![Linear Representation of the data](figs/US-New_York-New_York/da.png)
+[full report](reports/New_York.md)
 
-
+## Germany
+![Linear Representation of the data](figs/Germany/da.png)
+[full report](reports/Germany.md)
 
 
 
