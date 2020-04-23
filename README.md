@@ -17,22 +17,14 @@ Confirmed Cases and Deaths from the JHU or RKI. Lines are assimilated results.
 The growth rate calculated from 
 ![\frac{\partial f_2}{\partial I}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7B%5Cpartial%20f_2%7D%7B%5Cpartial%20I%7D)
 
-## Bavaria
+## Example Plot
 ![Linear Representation of the data](figs/Germany-Bayern/da.png)
-![Logarithmical Representation of the data](figs/Germany-Bayern/da_log.png)
-![Model parameter \beta](figs/Germany-Bayern/da_beta.png)
-![Model parameter \gamma and \deta](figs/Germany-Bayern/da_delta_gamma.png)
-![Contact number](figs/Germany-Bayern/da_contact_number.png)
-![Growth rate of infections](figs/Germany-Bayern/da_A22.png)
-![FFT of the growth rate](figs/Germany-Bayern/da_FFT_A22.png)
 
-## New York
-![Linear Representation of the data](figs/US-New_York-New_York/da.png)
-![Logarithmical Representation of the data](figs/US-New_York-New_York/da_log.png)
-![Model parameter \beta](figs/US-New_York-New_York/da_beta.png)
-![Model parameter \gamma and \deta](figs/US-New_York-New_York/da_delta_gamma.png)
-![Contact number](figs/US-New_York-New_York/da_contact_number.png)
-![Growth rate of infections](figs/US-New_York-New_York/da_A22.png)
-![FFT of the growth rate](figs/US-New_York-New_York/da_FFT_A22.png)
+
+### [Bavaria](reports/Bavaria.md)
+### [New York](reports/New_York.md)
+
+
+
 
 
