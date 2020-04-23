@@ -19,7 +19,7 @@ The growth rate calculated from
 
 ## Bavaria
 ![Linear Representation of the data](figs/Germany-Bayern/da.png)
-[full report](reports/Germany-Bavaria.md)
+[full report](reports/Germany-Bayern.md)
 
 ## New York
 ![Linear Representation of the data](figs/US-New_York-New_York/da.png)
