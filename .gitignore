@@ -1,3 +1,13 @@
+## Temporary files
+*~
+*.swp
+*.swo
+
+## Hidden files
+.*
+!.gitignore
+!.gitattributes
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -274,3 +284,4 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+>>>>>>> public
