@@ -8,9 +8,11 @@ from the [Robert-Koch
 Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html).
 An updated overview of the assimilation is shown on this page. The numerical
 values, as well as the individual plots can be found in the
-subfolders.
+subfolders. 
 
-Mantained by:
+The source of the code used for the data assimilation, which may be used unlimitedly for non-commercial purposes, can be found [here](https://github.com/sesterhenn/Corona.jl).
+
+## Contributors
 * Jörn Sesterhenn (joern.sesterhenn@uni-bayreuth.de)
 * Gabriele Camerlengo (gabriele.camerlengo@tu-berlin.de)
 
