@@ -1,21 +1,26 @@
-# Data Assimilation of the COVID-19 pandemia using an augmented SIR model
+# Data Assimilation of the COVID-19 pandemic using an augmented SIR model
 
 Periodical update of [assimilated
 Corona-Data](https://www.zenodo.org/record/3738945) based on the
-[Johns-Hopkins
+[Johns-Hopkins-University
 database](https://github.com/CSSEGISandData/COVID-19.git) and data
 from the [Robert-Koch
 Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html).
-An updated overview of the assimilation is found on this page. The numerical
+An updated overview of the assimilation is shown on this page. The numerical
 values, as well as the individual plots can be found in the
 subfolders.
 
-Maintained by Joern Sesterhenn and Gabriele Camerlengo.
+Mantained by:
+* Jörn Sesterhenn (joern.sesterhenn@uni-bayreuth.de)
+* Gabriele Camerlengo (gabriele.camerlengo@tu-berlin.de)
+
+## Model
+For the purpose of the data assimilation, the _Susceptible-Infectious-Recovered-Deceased_ ([SIRD](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIRD_model)) model is used.
 
 ## Legend
-Confirmed Cases and Deaths from the JHU or RKI. Lines are assimilated results.  
-The growth rate calculated from 
-![\frac{\partial f_2}{\partial I}](https://render.githubusercontent.com/render/math?math=%5Cfrac%7B%5Cpartial%20f_2%7D%7B%5Cpartial%20I%7D)
+* Confirmed Cases and Deaths from the JHU or RKI. 
+* Solid lines are assimilated results.  
+* The growth rate ![A_{22}](https://render.githubusercontent.com/render/math?math=A_%7B22%7D) is given by ![\partial f_2/\partial I](https://render.githubusercontent.com/render/math?math=%5Cpartial%20f_2%2F%5Cpartial%20I), where ![f_2=\partial_t I= \beta I S / N - \gamma I - \mu I](https://render.githubusercontent.com/render/math?math=f_2%3D%5Cpartial_t%20I%3D%20%5Cbeta%20I%20S%20%2F%20N%20-%20%5Cgamma%20I%20-%20%5Cmu%20I).
 
 ## Bavaria
 ![Linear Representation of the data](figs/Germany-Bayern/da.png)
